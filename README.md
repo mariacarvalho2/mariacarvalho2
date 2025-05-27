@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou [Seu Nome]</h1>
+<h1 align="center">👋 Olá! Eu sou Maria Clara</h1>
 
 <p align="center">
   Estudante de Desenvolvimento Web | Explorador do universo digital 🎮
