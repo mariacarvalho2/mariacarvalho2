@@ -15,7 +15,7 @@
 ---
 
 📚 **Atualmente estudando:**
-- HTML5 e CSS3 avançado
+- HTML5 e CSS3 básico
 - JavaScript moderno (ES6+)
 - Responsividade e boas práticas de UI
 
